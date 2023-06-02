@@ -1,5 +1,5 @@
-# ![Dialogflow logo Screenshot](./dialogflowlogo.png) DialogFlow ChatBot 
-## Sama Food Ordering Chatbot
+#@ ![Dialogflow logo Screenshot](./dialogflowlogo.png) 
+# Dialogflow Sama Food Ordering Chatbot
 Sama is a chatbot designed to assist users in ordering food. It is developed specifically for Abhishek Ganguly client, to enhance the food ordering experience for their customers. Sama is powered by Dialogflow, a natural language understanding platform provided by Google.
 
 ## Features
