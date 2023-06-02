@@ -24,7 +24,7 @@ URL : https://console.dialogflow.com/api-client/demo/embedded/61124e9b-0dc4-4a91
 
 ## Screenshots
 
-![Sama Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Sama Screenshot](./sama.png)
 
 
 ## Tech Stack
